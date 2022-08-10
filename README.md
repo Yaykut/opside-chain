@@ -1,21 +1,29 @@
 
-# Qtum SideChain
-## Qtum SideChain
+# Opside
+## Opside Chain
 
-Qtum SideChain is a modular and extensible framework for building Ethereum-compatible blockchain networks.
+Opside Chain is a ZK friendly modular blockchain platform with unlimited scalability.
 
-To find out more about Polygon, visit the [official website](https://polygon.technology/).
+To address the impossible triangle problem of blockchain consisting of decentralization, 
+security and scalability, Opside proposes a vertically layered architecture that vertically 
+divides the whole system into an asset layer, an execution layer, a Rollups layer and a data 
+Opside's different layers have their own focus and are organically combined at the same time, 
+thus achieving a stable triangular architecture.
 
-WARNING: This is a work in progress so architectural changes may happen in the future. The code has not been audited yet, so please contact [Qtum SideChain team](mailto:edge@polygon.technology) if you would like to use it in production.
+Opside is inherently friendly to the ZK-Rollup off-chain scaling solution, 
+natively supports interoperability between ZK-Rollups, and relies on ZK-Rollups 
+to achieve unlimited scalability, which fundamentally solves the scalability problem 
+while ensuring large-scale decentralization and security.
+
 
 ## Documentation 📝
 
 If you'd like to learn more about the Qtum SideChain, how it works and how you can use it for your project,
-please check out the **[Qtum SideChain Documentation](https://sdk-docs.polygon.technology)**.
+please check out the **[Opside Document](https://opsi.de)**.
 
 ---
 
-Copyright 2022 Polygon Technology
+Copyright 2022 Opside Protocol
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
